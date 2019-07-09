@@ -7,12 +7,12 @@
 fbind(a, b)
 }
 \arguments{
-\item{a}{factor}
+\item{a}{A factor}
 
-\item{b}{factor}
+\item{b}{A factor}
 }
 \value{
-factor
+A factor
 }
 \description{
 Coerces each input factor to character, combines them, then converts
