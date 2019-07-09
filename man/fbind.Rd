@@ -18,3 +18,11 @@ A factor
 Coerces each input factor to character, combines them, then converts
 back to a factor. New levels are the union of the levels of the inputs.
 }
+\examples{
+a <- factor(c("character","hits","your","eyeballs"))
+b <- factor(c("but","interger","where it","counts"))
+
+fbind(a, b)
+
+
+}
