@@ -1,5 +1,5 @@
 Package: foofactors
-Title: What the Package Does (One Line, Title Case)
+Title: Happier Life With Factors.
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Safouane",
@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "chsafouane@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: Happy happy happy. Factors factors factors. Happy factors.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
